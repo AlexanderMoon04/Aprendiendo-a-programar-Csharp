@@ -1,0 +1,15 @@
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\bin\Debug\net6.0\PruebaLap.exe
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\bin\Debug\net6.0\PruebaLap.deps.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\bin\Debug\net6.0\PruebaLap.runtimeconfig.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\bin\Debug\net6.0\PruebaLap.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\bin\Debug\net6.0\PruebaLap.pdb
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\obj\Debug\net6.0\PruebaLap.csproj.AssemblyReference.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\obj\Debug\net6.0\PruebaLap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\obj\Debug\net6.0\PruebaLap.AssemblyInfoInputs.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\obj\Debug\net6.0\PruebaLap.AssemblyInfo.cs
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\obj\Debug\net6.0\PruebaLap.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\obj\Debug\net6.0\PruebaLap.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\obj\Debug\net6.0\refint\PruebaLap.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\obj\Debug\net6.0\PruebaLap.pdb
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\obj\Debug\net6.0\PruebaLap.genruntimeconfig.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\PruebaLap\obj\Debug\net6.0\ref\PruebaLap.dll
