@@ -1,0 +1,15 @@
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\obj\Debug\net6.0\Practica4.csproj.AssemblyReference.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\obj\Debug\net6.0\Practica4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\obj\Debug\net6.0\Practica4.AssemblyInfoInputs.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\obj\Debug\net6.0\Practica4.AssemblyInfo.cs
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\obj\Debug\net6.0\Practica4.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\bin\Debug\net6.0\Practica4.exe
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\bin\Debug\net6.0\Practica4.deps.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\bin\Debug\net6.0\Practica4.runtimeconfig.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\bin\Debug\net6.0\Practica4.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\bin\Debug\net6.0\Practica4.pdb
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\obj\Debug\net6.0\Practica4.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\obj\Debug\net6.0\refint\Practica4.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\obj\Debug\net6.0\Practica4.pdb
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\obj\Debug\net6.0\Practica4.genruntimeconfig.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Practica4\obj\Debug\net6.0\ref\Practica4.dll

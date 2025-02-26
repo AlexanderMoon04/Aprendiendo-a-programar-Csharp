@@ -2,7 +2,7 @@
 
 namespace PruebaArreglo
 {
-    class Program
+    class Programita
     {
         static void Main(string[] args)
         {
