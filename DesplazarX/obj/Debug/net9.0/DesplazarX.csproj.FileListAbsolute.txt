@@ -1,0 +1,14 @@
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\obj\Debug\net9.0\DesplazarX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\obj\Debug\net9.0\DesplazarX.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\obj\Debug\net9.0\DesplazarX.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\obj\Debug\net9.0\DesplazarX.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\bin\Debug\net9.0\DesplazarX.exe
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\bin\Debug\net9.0\DesplazarX.deps.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\bin\Debug\net9.0\DesplazarX.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\bin\Debug\net9.0\DesplazarX.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\bin\Debug\net9.0\DesplazarX.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\obj\Debug\net9.0\DesplazarX.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\obj\Debug\net9.0\refint\DesplazarX.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\obj\Debug\net9.0\DesplazarX.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\obj\Debug\net9.0\DesplazarX.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\obj\Debug\net9.0\ref\DesplazarX.dll

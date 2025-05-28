@@ -1,0 +1,14 @@
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ProyectoMemo\bin\Debug\net9.0\ProyectoMemo.exe
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ProyectoMemo\bin\Debug\net9.0\ProyectoMemo.deps.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ProyectoMemo\bin\Debug\net9.0\ProyectoMemo.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ProyectoMemo\bin\Debug\net9.0\ProyectoMemo.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ProyectoMemo\bin\Debug\net9.0\ProyectoMemo.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ProyectoMemo\obj\Debug\net9.0\ProyectoMemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ProyectoMemo\obj\Debug\net9.0\ProyectoMemo.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ProyectoMemo\obj\Debug\net9.0\ProyectoMemo.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ProyectoMemo\obj\Debug\net9.0\ProyectoMemo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ProyectoMemo\obj\Debug\net9.0\ProyectoMemo.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ProyectoMemo\obj\Debug\net9.0\refint\ProyectoMemo.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ProyectoMemo\obj\Debug\net9.0\ProyectoMemo.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ProyectoMemo\obj\Debug\net9.0\ProyectoMemo.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ProyectoMemo\obj\Debug\net9.0\ref\ProyectoMemo.dll

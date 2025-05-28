@@ -1,0 +1,14 @@
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\SimpleBankingSystem\bin\Debug\net6.0\SimpleBankingSystem.exe
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\SimpleBankingSystem\bin\Debug\net6.0\SimpleBankingSystem.deps.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\SimpleBankingSystem\bin\Debug\net6.0\SimpleBankingSystem.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\SimpleBankingSystem\bin\Debug\net6.0\SimpleBankingSystem.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\SimpleBankingSystem\bin\Debug\net6.0\SimpleBankingSystem.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\SimpleBankingSystem\obj\Debug\net6.0\SimpleBankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\SimpleBankingSystem\obj\Debug\net6.0\SimpleBankingSystem.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\SimpleBankingSystem\obj\Debug\net6.0\SimpleBankingSystem.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\SimpleBankingSystem\obj\Debug\net6.0\SimpleBankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\SimpleBankingSystem\obj\Debug\net6.0\SimpleBankingSystem.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\SimpleBankingSystem\obj\Debug\net6.0\refint\SimpleBankingSystem.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\SimpleBankingSystem\obj\Debug\net6.0\SimpleBankingSystem.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\SimpleBankingSystem\obj\Debug\net6.0\SimpleBankingSystem.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\SimpleBankingSystem\obj\Debug\net6.0\ref\SimpleBankingSystem.dll
