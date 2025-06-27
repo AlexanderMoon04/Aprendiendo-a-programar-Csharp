@@ -1,0 +1,15 @@
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\bin\Debug\net6.0\Primos.exe
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\bin\Debug\net6.0\Primos.deps.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\bin\Debug\net6.0\Primos.runtimeconfig.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\bin\Debug\net6.0\Primos.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\bin\Debug\net6.0\Primos.pdb
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\obj\Debug\net6.0\Primos.csproj.AssemblyReference.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\obj\Debug\net6.0\Primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\obj\Debug\net6.0\Primos.AssemblyInfoInputs.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\obj\Debug\net6.0\Primos.AssemblyInfo.cs
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\obj\Debug\net6.0\Primos.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\obj\Debug\net6.0\Primos.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\obj\Debug\net6.0\refint\Primos.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\obj\Debug\net6.0\Primos.pdb
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\obj\Debug\net6.0\Primos.genruntimeconfig.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Primos\obj\Debug\net6.0\ref\Primos.dll

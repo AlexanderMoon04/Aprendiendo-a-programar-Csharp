@@ -24,7 +24,7 @@ class Program {
     static void Main(string[] args) {
         // double[] vecesIdasAlCine = [1, 2, 3, 6, 7, 1, 2, 3, 4, 5, 6, 9, 10, 10, 10];
         // double[] vecesIdasAlCine = [1, 1, 1, 1, 1, 1, 2, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4];
-        double[] vecesIdasAlCine = [2, 3, 0, 1, 5, 3, 2, 3, 0, 0, 2, 1, 2, 1, 0, 2, 1, 1, 1, 3, 4, 0, 0, 2, 1];
+        double[] vecesIdasAlCine = {2, 3, 0, 1, 5, 3, 2, 3, 0, 0, 2, 1, 2, 1, 0, 2, 1, 1, 1, 3, 4, 0, 0, 2, 1};
         vecesIdasAlCine = ordenar(vecesIdasAlCine);
         Console.WriteLine("Media: "+media(vecesIdasAlCine));
         Console.WriteLine("Mediana: "+mediana(vecesIdasAlCine));
@@ -88,7 +88,9 @@ class Program {
     {
         /*
         Se revisa cada valor del arreglo con el primer for. Con el segundo for se revisa si ese valor aparece antes en el arreglo, esto se lleva a cabo hasta 
-        que el valor no se repita, lo que permite entrar a la condicion donde se encuentra el tercer for, en este se cuenta cuantas veces aparece ese valor en el arreglo, se imprime el valor correspondiente y la cantidad de veces que se repite; si ese numero cuenta con mas repeticiones que el anterior, se toma como si fuera la moda y ese es el valor que regresa la funcion una vez terminado el ciclo principal.
+        que el valor no se repita, lo que permite entrar a la condicion donde se encuentra el tercer for, en este se cuenta cuantas veces aparece ese valor en el arreglo, 
+        se imprime el valor correspondiente y la cantidad de veces que se repite; si ese numero cuenta con mas repeticiones que el anterior, se toma como si fuera la moda y
+        ese es el valor que regresa la funcion una vez terminado el ciclo principal.
         */
         int repeticiones = 0, repeticionesMax = 0;
         double moda = 0;

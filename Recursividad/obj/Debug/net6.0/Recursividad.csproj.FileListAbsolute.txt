@@ -1,0 +1,15 @@
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\bin\Debug\net6.0\Recursividad.exe
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\bin\Debug\net6.0\Recursividad.deps.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\bin\Debug\net6.0\Recursividad.runtimeconfig.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\bin\Debug\net6.0\Recursividad.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\bin\Debug\net6.0\Recursividad.pdb
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\obj\Debug\net6.0\Recursividad.csproj.AssemblyReference.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\obj\Debug\net6.0\Recursividad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\obj\Debug\net6.0\Recursividad.AssemblyInfoInputs.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\obj\Debug\net6.0\Recursividad.AssemblyInfo.cs
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\obj\Debug\net6.0\Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\obj\Debug\net6.0\Recursividad.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\obj\Debug\net6.0\refint\Recursividad.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\obj\Debug\net6.0\Recursividad.pdb
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\obj\Debug\net6.0\Recursividad.genruntimeconfig.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Recursividad\obj\Debug\net6.0\ref\Recursividad.dll
