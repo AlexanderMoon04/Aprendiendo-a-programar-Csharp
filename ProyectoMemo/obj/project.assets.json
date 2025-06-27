@@ -1,38 +1,38 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alejandro\\.nuget\\packages\\": {}
+    "C:\\Users\\alexi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ProyectoMemo\\ProyectoMemo.csproj",
+      "projectUniqueName": "C:\\Users\\alexi\\Escritorio\\CotorreoCSharp\\Aprendiendo-a-programar\\ProyectoMemo\\ProyectoMemo.csproj",
       "projectName": "ProyectoMemo",
-      "projectPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ProyectoMemo\\ProyectoMemo.csproj",
-      "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ProyectoMemo\\obj\\",
+      "projectPath": "C:\\Users\\alexi\\Escritorio\\CotorreoCSharp\\Aprendiendo-a-programar\\ProyectoMemo\\ProyectoMemo.csproj",
+      "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexi\\Escritorio\\CotorreoCSharp\\Aprendiendo-a-programar\\ProyectoMemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -40,25 +40,18 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -67,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
       }
     }
   }

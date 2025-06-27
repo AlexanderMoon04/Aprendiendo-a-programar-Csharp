@@ -1,0 +1,15 @@
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\bin\Debug\net6.0\Fibonaccii.exe
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\bin\Debug\net6.0\Fibonaccii.deps.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\bin\Debug\net6.0\Fibonaccii.runtimeconfig.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\bin\Debug\net6.0\Fibonaccii.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\bin\Debug\net6.0\Fibonaccii.pdb
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\obj\Debug\net6.0\Fibonaccii.csproj.AssemblyReference.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\obj\Debug\net6.0\Fibonaccii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\obj\Debug\net6.0\Fibonaccii.AssemblyInfoInputs.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\obj\Debug\net6.0\Fibonaccii.AssemblyInfo.cs
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\obj\Debug\net6.0\Fibonaccii.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\obj\Debug\net6.0\Fibonaccii.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\obj\Debug\net6.0\refint\Fibonaccii.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\obj\Debug\net6.0\Fibonaccii.pdb
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\obj\Debug\net6.0\Fibonaccii.genruntimeconfig.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Fibonaccii\obj\Debug\net6.0\ref\Fibonaccii.dll
