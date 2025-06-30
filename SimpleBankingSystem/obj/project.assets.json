@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\SimpleBankingSystem\\SimpleBankingSystem.csproj",
+      "projectUniqueName": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\SimpleBankingSystem\\SimpleBankingSystem.csproj",
       "projectName": "SimpleBankingSystem",
-      "projectPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\SimpleBankingSystem\\SimpleBankingSystem.csproj",
+      "projectPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\SimpleBankingSystem\\SimpleBankingSystem.csproj",
       "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\SimpleBankingSystem\\obj\\",
+      "outputPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\SimpleBankingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

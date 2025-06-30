@@ -1,0 +1,15 @@
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\bin\Debug\net9.0\Numeric formatting.exe
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\bin\Debug\net9.0\Numeric formatting.deps.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\bin\Debug\net9.0\Numeric formatting.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\bin\Debug\net9.0\Numeric formatting.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\bin\Debug\net9.0\Numeric formatting.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\obj\Debug\net9.0\Numeric formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\obj\Debug\net9.0\Numeric formatting.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\obj\Debug\net9.0\Numeric formatting.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\obj\Debug\net9.0\Numeric formatting.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\obj\Debug\net9.0\Numeric formatting.sourcelink.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\obj\Debug\net9.0\Numeric formatting.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\obj\Debug\net9.0\refint\Numeric formatting.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\obj\Debug\net9.0\Numeric formatting.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\obj\Debug\net9.0\Numeric formatting.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Numeric formatting\obj\Debug\net9.0\ref\Numeric formatting.dll

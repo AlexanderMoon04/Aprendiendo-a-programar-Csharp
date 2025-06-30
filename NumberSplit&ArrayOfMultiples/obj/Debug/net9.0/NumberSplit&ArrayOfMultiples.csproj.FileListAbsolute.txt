@@ -1,0 +1,15 @@
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\bin\Debug\net9.0\NumberSplit&ArrayOfMultiples.exe
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\bin\Debug\net9.0\NumberSplit&ArrayOfMultiples.deps.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\bin\Debug\net9.0\NumberSplit&ArrayOfMultiples.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\bin\Debug\net9.0\NumberSplit&ArrayOfMultiples.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\bin\Debug\net9.0\NumberSplit&ArrayOfMultiples.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\obj\Debug\net9.0\NumberSplit&ArrayOfMultiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\obj\Debug\net9.0\NumberSplit&ArrayOfMultiples.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\obj\Debug\net9.0\NumberSplit&ArrayOfMultiples.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\obj\Debug\net9.0\NumberSplit&ArrayOfMultiples.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\obj\Debug\net9.0\NumberSplit&ArrayOfMultiples.sourcelink.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\obj\Debug\net9.0\NumberSplit&ArrayOfMultiples.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\obj\Debug\net9.0\refint\NumberSplit&ArrayOfMultiples.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\obj\Debug\net9.0\NumberSplit&ArrayOfMultiples.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\obj\Debug\net9.0\NumberSplit&ArrayOfMultiples.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumberSplit&ArrayOfMultiples\obj\Debug\net9.0\ref\NumberSplit&ArrayOfMultiples.dll

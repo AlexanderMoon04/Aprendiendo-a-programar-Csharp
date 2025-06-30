@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Methods\\Methods.csproj",
+      "projectUniqueName": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Methods\\Methods.csproj",
       "projectName": "Methods",
-      "projectPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Methods\\Methods.csproj",
+      "projectPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Methods\\Methods.csproj",
       "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Methods\\obj\\",
+      "outputPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Methods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

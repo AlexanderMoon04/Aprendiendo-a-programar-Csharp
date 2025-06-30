@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ToDoList\\ToDoList.csproj",
+      "projectUniqueName": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ToDoList\\ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ToDoList\\ToDoList.csproj",
+      "projectPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ToDoList\\ToDoList.csproj",
       "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ToDoList\\obj\\",
+      "outputPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

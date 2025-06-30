@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Debugging\\Debugging.csproj": {}
+    "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Debugging\\Debugging.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Debugging\\Debugging.csproj": {
+    "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Debugging\\Debugging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Debugging\\Debugging.csproj",
+        "projectUniqueName": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Debugging\\Debugging.csproj",
         "projectName": "Debugging",
-        "projectPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Debugging\\Debugging.csproj",
+        "projectPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Debugging\\Debugging.csproj",
         "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Debugging\\obj\\",
+        "outputPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Debugging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

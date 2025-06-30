@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\DesplazarX\\DesplazarX.csproj",
+      "projectUniqueName": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\DesplazarX\\DesplazarX.csproj",
       "projectName": "DesplazarX",
-      "projectPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\DesplazarX\\DesplazarX.csproj",
+      "projectPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\DesplazarX\\DesplazarX.csproj",
       "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\DesplazarX\\obj\\",
+      "outputPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\DesplazarX\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

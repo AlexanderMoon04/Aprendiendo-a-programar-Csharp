@@ -1,0 +1,15 @@
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\bin\Debug\net9.0\Fizz Buzz Game.exe
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\bin\Debug\net9.0\Fizz Buzz Game.deps.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\bin\Debug\net9.0\Fizz Buzz Game.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\bin\Debug\net9.0\Fizz Buzz Game.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\bin\Debug\net9.0\Fizz Buzz Game.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\obj\Debug\net9.0\Fizz Buzz Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\obj\Debug\net9.0\Fizz Buzz Game.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\obj\Debug\net9.0\Fizz Buzz Game.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\obj\Debug\net9.0\Fizz Buzz Game.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\obj\Debug\net9.0\Fizz Buzz Game.sourcelink.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\obj\Debug\net9.0\Fizz Buzz Game.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\obj\Debug\net9.0\refint\Fizz Buzz Game.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\obj\Debug\net9.0\Fizz Buzz Game.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\obj\Debug\net9.0\Fizz Buzz Game.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Fizz Buzz Game\obj\Debug\net9.0\ref\Fizz Buzz Game.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Calculator\\Calculator.csproj": {}
+    "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Calculator\\Calculator.csproj": {
+    "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Calculator\\Calculator.csproj",
+        "projectPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Calculator\\obj\\",
+        "outputPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

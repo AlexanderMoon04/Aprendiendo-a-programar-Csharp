@@ -12,3 +12,4 @@ C:\Users\Alejandro\Desktop\Aprendiendo a programar\GuessTheNumber\obj\Debug\net6
 C:\Users\Alejandro\Desktop\Aprendiendo a programar\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.pdb
 C:\Users\Alejandro\Desktop\Aprendiendo a programar\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.genruntimeconfig.cache
 C:\Users\Alejandro\Desktop\Aprendiendo a programar\GuessTheNumber\obj\Debug\net6.0\ref\GuessTheNumber.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.sourcelink.json

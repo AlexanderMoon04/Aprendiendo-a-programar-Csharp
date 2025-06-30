@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\RockPaperScissors\\RockPaperScissors.csproj": {}
+    "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\RockPaperScissors\\RockPaperScissors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\RockPaperScissors\\RockPaperScissors.csproj": {
+    "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\RockPaperScissors\\RockPaperScissors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\RockPaperScissors\\RockPaperScissors.csproj",
+        "projectUniqueName": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\RockPaperScissors\\RockPaperScissors.csproj",
         "projectName": "RockPaperScissors",
-        "projectPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\RockPaperScissors\\RockPaperScissors.csproj",
+        "projectPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\RockPaperScissors\\RockPaperScissors.csproj",
         "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\RockPaperScissors\\obj\\",
+        "outputPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\RockPaperScissors\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

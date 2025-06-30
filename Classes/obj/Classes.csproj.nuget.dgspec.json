@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Classes\\Classes.csproj": {}
+    "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Classes\\Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Classes\\Classes.csproj": {
+    "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Classes\\Classes.csproj",
+        "projectUniqueName": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Classes\\Classes.csproj",
         "projectName": "Classes",
-        "projectPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Classes\\Classes.csproj",
+        "projectPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Classes\\obj\\",
+        "outputPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,3 +12,4 @@ C:\Users\Alejandro\Desktop\Aprendiendo a programar\ToDoList\obj\Debug\net6.0\ref
 C:\Users\Alejandro\Desktop\Aprendiendo a programar\ToDoList\obj\Debug\net6.0\ToDoList.pdb
 C:\Users\Alejandro\Desktop\Aprendiendo a programar\ToDoList\obj\Debug\net6.0\ToDoList.genruntimeconfig.cache
 C:\Users\Alejandro\Desktop\Aprendiendo a programar\ToDoList\obj\Debug\net6.0\ref\ToDoList.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\ToDoList\obj\Debug\net6.0\ToDoList.sourcelink.json

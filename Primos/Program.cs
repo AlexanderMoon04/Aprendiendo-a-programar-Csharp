@@ -14,11 +14,10 @@ class Program
     public static bool numPrime(int x)
     {
         bool nPrime;
-        if (x % 2 == 0 && x != 2)
+        if (x % 2 == 0 && x != 2  || x == 1)
         {
             return nPrime = false;
         }
-        return nPrime = true;
+        return nPrime = true; 
     }
-
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ProyectoMemo\\ProyectoMemo.csproj": {}
+    "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ProyectoMemo\\ProyectoMemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ProyectoMemo\\ProyectoMemo.csproj": {
+    "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ProyectoMemo\\ProyectoMemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ProyectoMemo\\ProyectoMemo.csproj",
+        "projectUniqueName": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ProyectoMemo\\ProyectoMemo.csproj",
         "projectName": "ProyectoMemo",
-        "projectPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ProyectoMemo\\ProyectoMemo.csproj",
+        "projectPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ProyectoMemo\\ProyectoMemo.csproj",
         "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ProyectoMemo\\obj\\",
+        "outputPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\ProyectoMemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

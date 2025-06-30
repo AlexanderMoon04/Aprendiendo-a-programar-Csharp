@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\GuessTheNumber\\GuessTheNumber.csproj": {}
+    "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\GuessTheNumber\\GuessTheNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\GuessTheNumber\\GuessTheNumber.csproj": {
+    "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\GuessTheNumber\\GuessTheNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\GuessTheNumber\\GuessTheNumber.csproj",
+        "projectUniqueName": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\GuessTheNumber\\GuessTheNumber.csproj",
         "projectName": "GuessTheNumber",
-        "projectPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\GuessTheNumber\\GuessTheNumber.csproj",
+        "projectPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\GuessTheNumber\\GuessTheNumber.csproj",
         "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\GuessTheNumber\\obj\\",
+        "outputPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\GuessTheNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

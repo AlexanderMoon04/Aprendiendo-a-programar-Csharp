@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lists&Dictionaries/1.0.0": {
+        "runtime": {
+          "Lists&Dictionaries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lists&Dictionaries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

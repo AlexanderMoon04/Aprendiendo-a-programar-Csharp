@@ -1,0 +1,15 @@
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\bin\Debug\net9.0\Lists&Dictionaries.exe
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\bin\Debug\net9.0\Lists&Dictionaries.deps.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\bin\Debug\net9.0\Lists&Dictionaries.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\bin\Debug\net9.0\Lists&Dictionaries.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\bin\Debug\net9.0\Lists&Dictionaries.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\obj\Debug\net9.0\Lists&Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\obj\Debug\net9.0\Lists&Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\obj\Debug\net9.0\Lists&Dictionaries.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\obj\Debug\net9.0\Lists&Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\obj\Debug\net9.0\Lists&Dictionaries.sourcelink.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\obj\Debug\net9.0\Lists&Dictionaries.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\obj\Debug\net9.0\refint\Lists&Dictionaries.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\obj\Debug\net9.0\Lists&Dictionaries.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\obj\Debug\net9.0\Lists&Dictionaries.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Lists&Dictionaries\obj\Debug\net9.0\ref\Lists&Dictionaries.dll
