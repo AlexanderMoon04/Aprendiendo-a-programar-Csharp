@@ -1,0 +1,30 @@
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\bin\Debug\net6.0\DataTable.exe
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\bin\Debug\net6.0\DataTable.deps.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\bin\Debug\net6.0\DataTable.runtimeconfig.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\bin\Debug\net6.0\DataTable.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\bin\Debug\net6.0\DataTable.pdb
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\obj\Debug\net6.0\DataTable.csproj.AssemblyReference.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\obj\Debug\net6.0\DataTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\obj\Debug\net6.0\DataTable.AssemblyInfoInputs.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\obj\Debug\net6.0\DataTable.AssemblyInfo.cs
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\obj\Debug\net6.0\DataTable.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\obj\Debug\net6.0\DataTable.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\obj\Debug\net6.0\refint\DataTable.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\obj\Debug\net6.0\DataTable.pdb
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\obj\Debug\net6.0\DataTable.genruntimeconfig.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\DataTable\obj\Debug\net6.0\ref\DataTable.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\bin\Debug\net6.0\DataTable.exe
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\bin\Debug\net6.0\DataTable.deps.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\bin\Debug\net6.0\DataTable.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\bin\Debug\net6.0\DataTable.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\bin\Debug\net6.0\DataTable.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\obj\Debug\net6.0\DataTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\obj\Debug\net6.0\DataTable.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\obj\Debug\net6.0\DataTable.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\obj\Debug\net6.0\DataTable.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\obj\Debug\net6.0\DataTable.sourcelink.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\obj\Debug\net6.0\DataTable.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\obj\Debug\net6.0\refint\DataTable.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\obj\Debug\net6.0\DataTable.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\obj\Debug\net6.0\DataTable.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\DataTable\obj\Debug\net6.0\ref\DataTable.dll

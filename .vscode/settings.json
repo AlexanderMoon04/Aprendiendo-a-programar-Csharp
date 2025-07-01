@@ -1,6 +1,4 @@
 {
-    "dotnet.defaultSolution": "SumaRecursividad.sln"
-}
-{
+    "dotnet.defaultSolution": "SumaRecursividad.sln",
     "github.copilot.advanced": {}
 }

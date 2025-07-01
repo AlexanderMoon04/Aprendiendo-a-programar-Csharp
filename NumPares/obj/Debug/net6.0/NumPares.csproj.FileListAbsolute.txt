@@ -13,3 +13,18 @@ C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\NumPares\obj\De
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\NumPares\obj\Debug\net6.0\NumPares.pdb
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\NumPares\obj\Debug\net6.0\NumPares.genruntimeconfig.cache
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\NumPares\obj\Debug\net6.0\ref\NumPares.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\bin\Debug\net6.0\NumPares.exe
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\bin\Debug\net6.0\NumPares.deps.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\bin\Debug\net6.0\NumPares.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\bin\Debug\net6.0\NumPares.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\bin\Debug\net6.0\NumPares.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\obj\Debug\net6.0\NumPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\obj\Debug\net6.0\NumPares.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\obj\Debug\net6.0\NumPares.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\obj\Debug\net6.0\NumPares.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\obj\Debug\net6.0\NumPares.sourcelink.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\obj\Debug\net6.0\NumPares.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\obj\Debug\net6.0\refint\NumPares.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\obj\Debug\net6.0\NumPares.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\obj\Debug\net6.0\NumPares.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\NumPares\obj\Debug\net6.0\ref\NumPares.dll
