@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        int[] numbers = [1,10,100];
+        int[] numbers = { 1, 10, 100 };
         System.Console.WriteLine("................................");
         for (int i = 0; i < numbers.Length; i++)
         {
@@ -15,9 +15,9 @@ class Program
         int numberOfangles = 3;
         int[] angles = new int[numberOfangles];
         for (int i = 0; i < angles.Length; i++)
-        { 
-            System.Console.Write($"Write the angle {i+1} of the triangle: ");
-            angles[i]=int.Parse(Console.ReadLine());
+        {
+            System.Console.Write($"Write the angle {i + 1} of the triangle: ");
+            angles[i] = int.Parse(Console.ReadLine());
         }
         System.Console.WriteLine("................................");
 
@@ -31,8 +31,6 @@ class Program
         }
         System.Console.WriteLine("\n................................");
 
-
-
         Array.Reverse(angles); // Reverse the order to get descending order
         System.Console.WriteLine("The angles in descending order are: ");
         foreach (int angle in angles)
@@ -45,21 +43,21 @@ class Program
         int angleSum = 0;
         foreach (int angle in angles)
         {
-            angleSum+=angle;
+            angleSum += angle;
         }
         Console.WriteLine(angleSum == 180 ? $"\nThe sum of the angles is {angleSum} degrees. Valid triangle." : $"\nThe sum of the angles is {angleSum} degrees. Invalid triangle.");
         System.Console.WriteLine("................................");
 
-        System.Console.WriteLine("Enter an angle to search for: "); 
+        System.Console.WriteLine("Enter an angle to search for: ");
         int searchAngle = int.Parse(Console.ReadLine());
         // int position = Array.IndexOf(angles,searchAngle);  // This will search for the angle starting from index 0
         // int position = Array.IndexOf(angles,searchAngle,2); //this will search for the angle starting from index 2
-        int position = Array.IndexOf(angles,searchAngle,1,2);//this will search for the angle starting from index 1 and will only check the next 2 elements (angles[1] and angles[2])
+        int position = Array.IndexOf(angles, searchAngle, 1, 2);//this will search for the angle starting from index 1 and will only check the next 2 elements (angles[1] and angles[2])
         if (position >= 0) // If the angle is found, position will be >= 0
-            System.Console.WriteLine($"Number {searchAngle} has been found at position {position+1}.");
+            System.Console.WriteLine($"Number {searchAngle} has been found at position {position + 1}.");
         else
             System.Console.WriteLine($"Number {searchAngle} has not been found in the array.");
- 
+
         System.Console.WriteLine("................................");
 
         Array.Clear(angles, 1, 2); // Clear the angles array
@@ -70,5 +68,26 @@ class Program
         {
             System.Console.Write($"{angle} "); //this will print the angles array after clearing
         }
+
+        System.Console.WriteLine("\n................................");
+
+        int[] numbersToErase = { 1, 2, 3, 4, 5 };
+        System.Console.WriteLine($"{numbersToErase}");
+        System.Console.WriteLine("The array before erasing: " + EraseArray(numbersToErase));
+
+    }
+
+    public static string EraseArray(int[] o)
+    {
+        string result = "[";
+        for (int i = 0; i < o.Length; i++)
+        {
+            result += o[i].ToString();
+            if (i < o.Length - 1)
+                result += ", ";
+
+        }
+        result += "]";
+        return result;
     }
 }
