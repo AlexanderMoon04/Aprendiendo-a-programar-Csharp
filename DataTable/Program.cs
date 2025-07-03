@@ -17,12 +17,13 @@ class Program
             prom = CalculateProm(numbers);
             System.Console.WriteLine($"The average is: {prom}");
         }
-        catch (System.Exception ex) //Error management
+        catch (System.Exception ex) //Error manager
         {
             System.Console.WriteLine($"An error has occurred: {ex.Message}");
         }
         
     }
+    
 
     public static double CalculateProm(int[] array)
     {
