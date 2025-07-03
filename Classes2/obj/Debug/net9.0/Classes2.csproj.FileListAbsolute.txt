@@ -1,0 +1,15 @@
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\bin\Debug\net9.0\Classes2.exe
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\bin\Debug\net9.0\Classes2.deps.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\bin\Debug\net9.0\Classes2.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\bin\Debug\net9.0\Classes2.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\bin\Debug\net9.0\Classes2.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\obj\Debug\net9.0\Classes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\obj\Debug\net9.0\Classes2.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\obj\Debug\net9.0\Classes2.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\obj\Debug\net9.0\Classes2.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\obj\Debug\net9.0\Classes2.sourcelink.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\obj\Debug\net9.0\Classes2.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\obj\Debug\net9.0\refint\Classes2.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\obj\Debug\net9.0\Classes2.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\obj\Debug\net9.0\Classes2.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\classes2\obj\Debug\net9.0\ref\Classes2.dll

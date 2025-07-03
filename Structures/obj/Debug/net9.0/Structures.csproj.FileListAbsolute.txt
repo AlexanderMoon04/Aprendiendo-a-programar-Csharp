@@ -1,0 +1,15 @@
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\bin\Debug\net9.0\Structures.exe
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\bin\Debug\net9.0\Structures.deps.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\bin\Debug\net9.0\Structures.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\bin\Debug\net9.0\Structures.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\bin\Debug\net9.0\Structures.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\obj\Debug\net9.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\obj\Debug\net9.0\Structures.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\obj\Debug\net9.0\Structures.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\obj\Debug\net9.0\Structures.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\obj\Debug\net9.0\Structures.sourcelink.json
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\obj\Debug\net9.0\Structures.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\obj\Debug\net9.0\refint\Structures.dll
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\obj\Debug\net9.0\Structures.pdb
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\obj\Debug\net9.0\Structures.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Aprendiendo a programar\Structures\obj\Debug\net9.0\ref\Structures.dll

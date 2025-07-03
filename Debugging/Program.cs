@@ -12,6 +12,10 @@ class Program
         foreach(var number in smallests)
             System.Console.WriteLine(number);
 
+        Console.WriteLine(new string('-', 50));
+
+        
+
     }
 
     public static List<int> GetSmallests(List<int> list, int count)
