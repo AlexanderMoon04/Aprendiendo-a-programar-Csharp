@@ -1,0 +1,15 @@
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\bin\Debug\net9.0\Search&DataSheet.exe
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\bin\Debug\net9.0\Search&DataSheet.deps.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\bin\Debug\net9.0\Search&DataSheet.runtimeconfig.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\bin\Debug\net9.0\Search&DataSheet.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\bin\Debug\net9.0\Search&DataSheet.pdb
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\obj\Debug\net9.0\Search&DataSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\obj\Debug\net9.0\Search&DataSheet.AssemblyInfoInputs.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\obj\Debug\net9.0\Search&DataSheet.AssemblyInfo.cs
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\obj\Debug\net9.0\Search&DataSheet.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\obj\Debug\net9.0\Search&DataSheet.sourcelink.json
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\obj\Debug\net9.0\Search&DataSheet.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\obj\Debug\net9.0\refint\Search&DataSheet.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\obj\Debug\net9.0\Search&DataSheet.pdb
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\obj\Debug\net9.0\Search&DataSheet.genruntimeconfig.cache
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Search&DataSheet\obj\Debug\net9.0\ref\Search&DataSheet.dll

@@ -3,7 +3,6 @@ C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Excersice-Files
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Excersice-Files\bin\Debug\net6.0\Excersice-Files.runtimeconfig.json
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Excersice-Files\bin\Debug\net6.0\Excersice-Files.dll
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Excersice-Files\bin\Debug\net6.0\Excersice-Files.pdb
-C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Excersice-Files\obj\Debug\net6.0\Excersice-Files.csproj.AssemblyReference.cache
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Excersice-Files\obj\Debug\net6.0\Excersice-Files.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Excersice-Files\obj\Debug\net6.0\Excersice-Files.AssemblyInfoInputs.cache
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Excersice-Files\obj\Debug\net6.0\Excersice-Files.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Excersice-Files
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Excersice-Files\obj\Debug\net6.0\Excersice-Files.pdb
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Excersice-Files\obj\Debug\net6.0\Excersice-Files.genruntimeconfig.cache
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Excersice-Files\obj\Debug\net6.0\ref\Excersice-Files.dll
+C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Excersice-Files\obj\Debug\net6.0\Excersice-Files.sourcelink.json

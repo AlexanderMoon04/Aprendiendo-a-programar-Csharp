@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alejandro\\.nuget\\packages\\": {}
+    "C:\\Users\\alexi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\DesplazarX\\DesplazarX.csproj",
+      "projectUniqueName": "C:\\Users\\alexi\\Escritorio\\CotorreoCSharp\\Aprendiendo-a-programar\\DesplazarX\\DesplazarX.csproj",
       "projectName": "DesplazarX",
-      "projectPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\DesplazarX\\DesplazarX.csproj",
-      "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\DesplazarX\\obj\\",
+      "projectPath": "C:\\Users\\alexi\\Escritorio\\CotorreoCSharp\\Aprendiendo-a-programar\\DesplazarX\\DesplazarX.csproj",
+      "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexi\\Escritorio\\CotorreoCSharp\\Aprendiendo-a-programar\\DesplazarX\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -46,7 +46,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alejandro\\.nuget\\packages\\": {}
+    "C:\\Users\\alexi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\alexi\\Escritorio\\CotorreoCSharp\\Aprendiendo-a-programar\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Calculator\\Calculator.csproj",
-      "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\Calculator\\obj\\",
+      "projectPath": "C:\\Users\\alexi\\Escritorio\\CotorreoCSharp\\Aprendiendo-a-programar\\Calculator\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexi\\Escritorio\\CotorreoCSharp\\Aprendiendo-a-programar\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -46,7 +46,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net6.0": {
@@ -85,8 +85,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

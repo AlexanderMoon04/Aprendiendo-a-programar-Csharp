@@ -5,67 +5,75 @@ namespace Excersice_Files;
 
 class Program
 {
-
-    /*Take the name of the file with the keyboard (without extention .csv)
-    Calculate the average of data read in the file 
-    The file must containt the next:
-    Califications DSBIS22M
-    5
-    4
-    8
-    1
-    3
-    5
-    And must show:
-    -table with title
-    -Data inside [5,4,8,1,3,5]
-    -The average of data 
-
-     */
     static void Main(string[] args)
     {
         Console.WriteLine("Hello, write the name of the file: ");
-        string fileCalifications = Console.ReadLine()+".csv";
+        string fileCalifications = Console.ReadLine() + ".csv";
 
         try
         {
-            string[] data = File.ReadAllLines(fileCalifications);
-            int[] notes = new int[data.Length];
-            string title = data[0];
-            System.Console.WriteLine(title);
-            double prom = 0;
-            for (int i = 1; i < data.Length; i++)
-                notes[i] = int.Parse(data[i]);
-            System.Console.WriteLine($"Read data: {ShowArray(notes)}");
-            prom = CalculateProm(notes);
-            System.Console.WriteLine($"Average: {prom}");
+            string[] line = File.ReadAllLines(fileCalifications);
+            int rows = line.Length;
+            int columns = line[0].Split(',').Length;
+            string[,] data = new string[rows, columns]; //array of multiple dimensions
+            for (int i = 0; i < rows; i++)
+            {
+                string[] cells = line[i].Split(',');
+                for (int j = 0; j < columns; j++)
+                {
+                    if (j < cells.Length)
+                    {
+                        data[i, j] = cells[j];
+                        System.Console.WriteLine(data[i, j] + "\t");
+                    }
+                    else
+                        data[i, j] = "";
+                }
+                System.Console.WriteLine();
+            }
+            Console.WriteLine("Write the name of the group you are looking for: ");
+            string search = Console.ReadLine();
+            Console.WriteLine(SearchInArray(data, search));
+            Console.WriteLine($"The average of the column is:{CalculateAverageColumn(data, search)}");
+            
+
+            
+
         }
         catch (Exception ex)
         {
-            System.Console.WriteLine($"An error has ocurred: {ex.Message}");
+            Console.WriteLine($"It wasnt possible to read the file: {ex.Message}");
         }
     }
-
     public static double CalculateProm(int[] array)
     {
         double sum = 0;
-        for (int i = 1; i < array.Length; i++)
+        for (int i = 0; i < array.Length; i++)
         {
             sum += array[i];
         }
-        return sum / (array.Length-1);
+        return sum / (array.Length);
     }
-        public static string ShowArray(int[] o)
+    public static double CalculateAverageColumn(string[,] string search)
     {
-        string result = "[";
-        for (int i = 1; i < o.Length; i++)
-        {
-            result += o[i].ToString();
-            if (i < o.Length-1 )
-                result += ", ";
-
-        }
-        result += "]";
-        return result;
+        
     }
+        public static string SearchInArray(string[,] data, string search)
+    {
+        int rows = data.GetLength(0);
+        int columns = data.GetLength(1);
+
+        for (int i = 0; i < rows; i++)
+        {
+            for (int j = 0; j < columns; j++)
+            {
+                if (data[i, j] == search)
+                {
+                    return $"The group {search} was found at position [{i}, {j}]!";
+                }    
+            }
+        }
+        return "-1";
+    }
+
 }
