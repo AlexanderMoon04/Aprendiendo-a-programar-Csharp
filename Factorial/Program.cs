@@ -9,8 +9,7 @@ class Program
         chiffre = int.Parse(Console.ReadLine());
         System.Console.WriteLine("Normal: " + FactosFactoria(chiffre));
         System.Console.WriteLine("Recursivo: " + FactosFactoriaRecursivo(chiffre));
-    }
-    static int FactosFactoria(int x)
+    }    static int FactosFactoria(int x)
     {
         if (x < 0) {
             return -1; // Indicate an error for negative input
