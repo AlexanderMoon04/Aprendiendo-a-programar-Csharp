@@ -13,3 +13,18 @@ C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\ProyectoMemo\ob
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\ProyectoMemo\obj\Debug\net6.0\ProyectoMemo.pdb
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\ProyectoMemo\obj\Debug\net6.0\ProyectoMemo.genruntimeconfig.cache
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\ProyectoMemo\obj\Debug\net6.0\ref\ProyectoMemo.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\bin\Debug\net6.0\ProyectoMemo.exe
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\bin\Debug\net6.0\ProyectoMemo.deps.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\bin\Debug\net6.0\ProyectoMemo.runtimeconfig.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\bin\Debug\net6.0\ProyectoMemo.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\bin\Debug\net6.0\ProyectoMemo.pdb
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\obj\Debug\net6.0\ProyectoMemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\obj\Debug\net6.0\ProyectoMemo.AssemblyInfoInputs.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\obj\Debug\net6.0\ProyectoMemo.AssemblyInfo.cs
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\obj\Debug\net6.0\ProyectoMemo.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\obj\Debug\net6.0\ProyectoMemo.sourcelink.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\obj\Debug\net6.0\ProyectoMemo.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\obj\Debug\net6.0\refint\ProyectoMemo.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\obj\Debug\net6.0\ProyectoMemo.pdb
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\obj\Debug\net6.0\ProyectoMemo.genruntimeconfig.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\ProyectoMemo\obj\Debug\net6.0\ref\ProyectoMemo.dll

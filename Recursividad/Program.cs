@@ -19,7 +19,6 @@ class Program
        System.Console.WriteLine("**********Pares recursivo invertido**********"); 
         imprimirParesRecursivoInverso(2,10);
     }
-
     static void imprimir(int x)
     {
         for (int i = 0; i < x; i++)
@@ -68,7 +67,6 @@ class Program
             return 1;
         return 1 + digitosRecursivo(x/10);
     }
-
     static void imprimirParesRecursivo(int n)
     {
         if (n%2==0 && n>0)
@@ -82,7 +80,6 @@ class Program
         else
             return;
     }
-    
     static void imprimirPares(int n)
     {
         while (n>=1){
@@ -93,7 +90,6 @@ class Program
         }
         return;
     }
-
     static void imprimirParesInverso(int n)
     {
         int i=2;
@@ -103,7 +99,6 @@ class Program
             i++;
         }
     }
-
     static void imprimirParesRecursivoInverso(int i, int n)
     {
         if(i>n)

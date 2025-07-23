@@ -12,3 +12,18 @@ C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\obj\Debug\net9.0\r
 C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\obj\Debug\net9.0\DesplazarX.pdb
 C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\obj\Debug\net9.0\DesplazarX.genruntimeconfig.cache
 C:\Users\Alejandro\Desktop\Aprendiendo a programar\DesplazarX\obj\Debug\net9.0\ref\DesplazarX.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\bin\Debug\net9.0\DesplazarX.exe
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\bin\Debug\net9.0\DesplazarX.deps.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\bin\Debug\net9.0\DesplazarX.runtimeconfig.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\bin\Debug\net9.0\DesplazarX.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\bin\Debug\net9.0\DesplazarX.pdb
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\obj\Debug\net9.0\DesplazarX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\obj\Debug\net9.0\DesplazarX.AssemblyInfoInputs.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\obj\Debug\net9.0\DesplazarX.AssemblyInfo.cs
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\obj\Debug\net9.0\DesplazarX.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\obj\Debug\net9.0\DesplazarX.sourcelink.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\obj\Debug\net9.0\DesplazarX.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\obj\Debug\net9.0\refint\DesplazarX.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\obj\Debug\net9.0\DesplazarX.pdb
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\obj\Debug\net9.0\DesplazarX.genruntimeconfig.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\DesplazarX\obj\Debug\net9.0\ref\DesplazarX.dll
