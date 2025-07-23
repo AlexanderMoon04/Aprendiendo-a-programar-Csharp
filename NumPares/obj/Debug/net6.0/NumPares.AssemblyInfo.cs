@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumPares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2cfd33644f4cab82d1709118320f464a8839a04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77e3844eae2a9e7fc7f123a4d54434c584861930")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumPares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumPares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
