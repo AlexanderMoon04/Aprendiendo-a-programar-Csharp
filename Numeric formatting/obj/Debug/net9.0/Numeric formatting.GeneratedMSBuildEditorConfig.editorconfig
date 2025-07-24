@@ -8,7 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Numeric_formatting
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Numeric formatting\
+=======
+build_property.ProjectDir = /home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Numeric formatting/
+>>>>>>> 245bc31 (en papulandia ayunpapu)
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0

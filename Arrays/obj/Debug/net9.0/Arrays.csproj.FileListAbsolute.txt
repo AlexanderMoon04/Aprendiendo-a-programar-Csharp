@@ -1,15 +1,30 @@
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\bin\Debug\net9.0\Arrays.exe
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\bin\Debug\net9.0\Arrays.deps.json
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\bin\Debug\net9.0\Arrays.runtimeconfig.json
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\bin\Debug\net9.0\Arrays.dll
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\bin\Debug\net9.0\Arrays.pdb
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\obj\Debug\net9.0\Arrays.sourcelink.json
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\obj\Debug\net9.0\Arrays.dll
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\obj\Debug\net9.0\refint\Arrays.dll
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\obj\Debug\net9.0\Arrays.pdb
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
-C:\Users\Alejandro\Desktop\Aprendiendo a programar\Arrays\obj\Debug\net9.0\ref\Arrays.dll
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/bin/Debug/net9.0/Arrays.exe
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/bin/Debug/net9.0/Arrays.deps.json
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/bin/Debug/net9.0/Arrays.dll
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/bin/Debug/net9.0/Arrays.pdb
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/obj/Debug/net9.0/Arrays.sourcelink.json
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/obj/Debug/net9.0/Arrays.dll
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/obj/Debug/net9.0/Arrays.pdb
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+C:/Users/Alejandro/Desktop/Aprendiendo a programar/Arrays/obj/Debug/net9.0/ref/Arrays.dll
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/bin/Debug/net9.0/Arrays
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/bin/Debug/net9.0/Arrays.dll
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/bin/Debug/net9.0/Arrays.pdb
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net9.0/Arrays.sourcelink.json
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net9.0/Arrays.dll
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net9.0/Arrays.pdb
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net9.0/ref/Arrays.dll
