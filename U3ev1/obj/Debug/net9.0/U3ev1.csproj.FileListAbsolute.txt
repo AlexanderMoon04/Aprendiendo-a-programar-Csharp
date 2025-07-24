@@ -1,15 +1,30 @@
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\bin\Debug\net9.0\U3ev1.exe
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\bin\Debug\net9.0\U3ev1.deps.json
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\bin\Debug\net9.0\U3ev1.runtimeconfig.json
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\bin\Debug\net9.0\U3ev1.dll
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\bin\Debug\net9.0\U3ev1.pdb
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\obj\Debug\net9.0\U3ev1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\obj\Debug\net9.0\U3ev1.AssemblyInfoInputs.cache
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\obj\Debug\net9.0\U3ev1.AssemblyInfo.cs
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\obj\Debug\net9.0\U3ev1.csproj.CoreCompileInputs.cache
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\obj\Debug\net9.0\U3ev1.sourcelink.json
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\obj\Debug\net9.0\U3ev1.dll
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\obj\Debug\net9.0\refint\U3ev1.dll
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\obj\Debug\net9.0\U3ev1.pdb
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\obj\Debug\net9.0\U3ev1.genruntimeconfig.cache
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U3ev1\obj\Debug\net9.0\ref\U3ev1.dll
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/bin/Debug/net9.0/U3ev1.exe
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/bin/Debug/net9.0/U3ev1.deps.json
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/bin/Debug/net9.0/U3ev1.runtimeconfig.json
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/bin/Debug/net9.0/U3ev1.dll
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/bin/Debug/net9.0/U3ev1.pdb
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.AssemblyInfoInputs.cache
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.AssemblyInfo.cs
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.csproj.CoreCompileInputs.cache
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.sourcelink.json
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.dll
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/refint/U3ev1.dll
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.pdb
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.genruntimeconfig.cache
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/ref/U3ev1.dll
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/bin/Debug/net9.0/U3ev1
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/bin/Debug/net9.0/U3ev1.deps.json
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/bin/Debug/net9.0/U3ev1.runtimeconfig.json
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/bin/Debug/net9.0/U3ev1.dll
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/bin/Debug/net9.0/U3ev1.pdb
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.AssemblyInfoInputs.cache
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.AssemblyInfo.cs
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.csproj.CoreCompileInputs.cache
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.sourcelink.json
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.dll
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/refint/U3ev1.dll
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.pdb
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/U3ev1.genruntimeconfig.cache
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U3ev1/obj/Debug/net9.0/ref/U3ev1.dll

@@ -1,13 +1,10 @@
-﻿using System.Diagnostics;
-using System.Reflection;
-
-namespace Excersice_Files;
+﻿namespace Excersice_Files;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, write the name of the file: ");
+        Console.Write("Hello, write the name of the file: ");
         string fileCalifications = Console.ReadLine() + ".csv";
 
         try
@@ -24,7 +21,7 @@ class Program
                     if (j < cells.Length)
                     {
                         data[i, j] = cells[j];
-                        System.Console.WriteLine(data[i, j] + "\t");
+                        Console.Write($"{data[i,j]} ");
                     }
                     else
                         data[i, j] = "";
@@ -34,11 +31,7 @@ class Program
             Console.WriteLine("Write the name of the group you are looking for: ");
             string search = Console.ReadLine();
             Console.WriteLine(SearchInArray(data, search));
-            Console.WriteLine($"The average of the column is:{CalculateAverageColumn(data, search)}");
-            
-
-            
-
+            Console.WriteLine($"The average of the column is: {CalculateAverageColumn(data, search)}");
         }
         catch (Exception ex)
         {
@@ -52,16 +45,33 @@ class Program
         {
             sum += array[i];
         }
-        return sum / (array.Length);
+        return sum / array.Length;
     }
-    public static double CalculateAverageColumn(string[,] string search)
+    public static double CalculateAverageColumn(string[,] data, string search)
     {
-        
+        int columns = data.GetLength(1); 
+        int rows = data.GetLength(0);  
+
+        for (int j = 0; j < columns; j++)
+        {
+            if (data[0, j] == search)
+            {
+                int[] values = new int[rows - 1];
+
+                for (int i = 1; i < rows; i++)
+                {
+                    values[i - 1] = int.Parse(data[i, j]);
+                }
+
+                return CalculateProm(values);
+            }
+        }
+        return -1; // Not found
     }
-        public static string SearchInArray(string[,] data, string search)
+    public static string SearchInArray(string[,] data, string search)
     {
-        int rows = data.GetLength(0);
-        int columns = data.GetLength(1);
+        int rows = data.GetLength(0); //To get number of rows
+        int columns = data.GetLength(1); //To get number of columns
 
         for (int i = 0; i < rows; i++)
         {
@@ -70,10 +80,9 @@ class Program
                 if (data[i, j] == search)
                 {
                     return $"The group {search} was found at position [{i}, {j}]!";
-                }    
+                }
             }
         }
         return "-1";
     }
-
 }

@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "yEFjnmpkXgA=",
   "success": true,
   "projectFilePath": "/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Arrays/Arrays.csproj",
@@ -8,5 +9,11 @@
     "/home/alejandro/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
     "/home/alejandro/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "7VepDqXEItM=",
+  "success": true,
+  "projectFilePath": "/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/Arrays.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 3c41bd2b45ee5b5579c24c4246cd877f30abef34
   "logs": []
 }

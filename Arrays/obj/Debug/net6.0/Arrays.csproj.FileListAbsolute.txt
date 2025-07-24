@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Arrays/bin/Debug/net6.0/Arrays
 /home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Arrays/bin/Debug/net6.0/Arrays.deps.json
 /home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Arrays/bin/Debug/net6.0/Arrays.runtimeconfig.json
@@ -13,3 +14,20 @@
 /home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net6.0/Arrays.pdb
 /home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net6.0/Arrays.genruntimeconfig.cache
 /home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net6.0/ref/Arrays.dll
+=======
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/bin/Debug/net6.0/Arrays
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/bin/Debug/net6.0/Arrays.deps.json
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/bin/Debug/net6.0/Arrays.runtimeconfig.json
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/bin/Debug/net6.0/Arrays.dll
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/bin/Debug/net6.0/Arrays.pdb
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net6.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfoInputs.cache
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfo.cs
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net6.0/Arrays.csproj.CoreCompileInputs.cache
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net6.0/Arrays.sourcelink.json
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net6.0/Arrays.dll
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net6.0/refint/Arrays.dll
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net6.0/Arrays.pdb
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net6.0/Arrays.genruntimeconfig.cache
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Arrays/obj/Debug/net6.0/ref/Arrays.dll
+>>>>>>> 3c41bd2b45ee5b5579c24c4246cd877f30abef34
