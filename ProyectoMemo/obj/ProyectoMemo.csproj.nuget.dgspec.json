@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexi\\Escritorio\\CotorreoCSharp\\Aprendiendo-a-programar\\ProyectoMemo\\ProyectoMemo.csproj": {}
+    "C:\\Users\\alexi\\Programando ando\\Aprendiendo-a-programar-Csharp\\ProyectoMemo\\ProyectoMemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexi\\Escritorio\\CotorreoCSharp\\Aprendiendo-a-programar\\ProyectoMemo\\ProyectoMemo.csproj": {
+    "C:\\Users\\alexi\\Programando ando\\Aprendiendo-a-programar-Csharp\\ProyectoMemo\\ProyectoMemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\Escritorio\\CotorreoCSharp\\Aprendiendo-a-programar\\ProyectoMemo\\ProyectoMemo.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\Programando ando\\Aprendiendo-a-programar-Csharp\\ProyectoMemo\\ProyectoMemo.csproj",
         "projectName": "ProyectoMemo",
-        "projectPath": "C:\\Users\\alexi\\Escritorio\\CotorreoCSharp\\Aprendiendo-a-programar\\ProyectoMemo\\ProyectoMemo.csproj",
+        "projectPath": "C:\\Users\\alexi\\Programando ando\\Aprendiendo-a-programar-Csharp\\ProyectoMemo\\ProyectoMemo.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\Escritorio\\CotorreoCSharp\\Aprendiendo-a-programar\\ProyectoMemo\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\Programando ando\\Aprendiendo-a-programar-Csharp\\ProyectoMemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -43,8 +41,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -56,30 +54,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

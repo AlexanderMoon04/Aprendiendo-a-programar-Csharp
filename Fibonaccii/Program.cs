@@ -1,8 +1,7 @@
 ﻿namespace Fibonaccii;
-
 class Program
-{
-    static void Main(string[] args)
+{  
+      static void Main(string[] args)
     {
         //1 2 3 4 5 6 7 8  9  10 11 12
         //0 1 1 2 3 5 8 13 21 34 55 89
@@ -11,7 +10,6 @@ class Program
         System.Console.WriteLine("Fibonacci value: " + Fibonacci(number));
         System.Console.WriteLine("Fibonacci value (Recursive edition): " + RecursiveFibonacci(number));
     }
-
     public static int Fibonacci(int x)
     {
         int f1 = 0, f2 = 1, f3 = 0;
@@ -26,9 +24,7 @@ class Program
             f2 = f3;    // Update f2 to the current Fibonacci number
         }
         return f3;
-
     }
-
     public static int RecursiveFibonacci(int x)
     {
         if (x <= 0)

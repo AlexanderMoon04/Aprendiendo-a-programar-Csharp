@@ -1,0 +1,5 @@
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.AssemblyInfoInputs.cache
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.AssemblyInfo.cs
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.csproj.CoreCompileInputs.cache
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.sourcelink.json

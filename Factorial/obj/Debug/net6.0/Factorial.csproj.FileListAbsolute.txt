@@ -13,3 +13,18 @@ C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Factorial\obj\D
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Factorial\obj\Debug\net6.0\Factorial.pdb
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Factorial\obj\Debug\net6.0\Factorial.genruntimeconfig.cache
 C:\Users\alexi\Escritorio\CotorreoCSharp\Aprendiendo-a-programar\Factorial\obj\Debug\net6.0\ref\Factorial.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\bin\Debug\net6.0\Factorial.exe
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\bin\Debug\net6.0\Factorial.deps.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\bin\Debug\net6.0\Factorial.runtimeconfig.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\bin\Debug\net6.0\Factorial.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\bin\Debug\net6.0\Factorial.pdb
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net6.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfo.cs
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net6.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net6.0\Factorial.sourcelink.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net6.0\Factorial.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net6.0\refint\Factorial.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net6.0\Factorial.pdb
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net6.0\Factorial.genruntimeconfig.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net6.0\ref\Factorial.dll
