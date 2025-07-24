@@ -1,0 +1,17 @@
+# Build Results
+bin/
+obj/
+
+# VS Code Settings
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.user
+*.suo
+
+# OS generated
+.DS_Store
+Thumbs.db
