@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "/9Xwfd7MZik=",
+  "dgSpecHash": "elemcvQWE94=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexi\\Programando ando\\Aprendiendo-a-programar-Csharp\\Factorial\\Factorial.csproj",
+  "projectFilePath": "/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/Factorial.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problème de lecture du fichier cache /home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

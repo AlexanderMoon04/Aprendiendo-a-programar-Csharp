@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.AssemblyInfoInputs.cache
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.AssemblyInfo.cs
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.csproj.CoreCompileInputs.cache
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.sourcelink.json
+=======
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.GeneratedMSBuildEditorConfig.editorconfig
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.AssemblyInfoInputs.cache
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.AssemblyInfo.cs
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.csproj.CoreCompileInputs.cache
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.sourcelink.json
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/bin/Debug/net9.0/Excersice-Files
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/bin/Debug/net9.0/Excersice-Files.deps.json
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/bin/Debug/net9.0/Excersice-Files.runtimeconfig.json
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/bin/Debug/net9.0/Excersice-Files.dll
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/bin/Debug/net9.0/Excersice-Files.pdb
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.dll
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/refint/Excersice-Files.dll
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.pdb
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.genruntimeconfig.cache
+/home/m00n/Development de logiciel C#/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/ref/Excersice-Files.dll
+>>>>>>> 3c41bd2b45ee5b5579c24c4246cd877f30abef34
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/bin/Debug/net9.0/Excersice-Files
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/bin/Debug/net9.0/Excersice-Files.deps.json
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/bin/Debug/net9.0/Excersice-Files.runtimeconfig.json
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/bin/Debug/net9.0/Excersice-Files.dll
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/bin/Debug/net9.0/Excersice-Files.pdb
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.dll
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/refint/Excersice-Files.dll
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.pdb
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/Excersice-Files.genruntimeconfig.cache
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Excersice-Files/obj/Debug/net9.0/ref/Excersice-Files.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\bin\Debug\net9.0\Excersice-Files.exe
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\bin\Debug\net9.0\Excersice-Files.deps.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\bin\Debug\net9.0\Excersice-Files.runtimeconfig.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\bin\Debug\net9.0\Excersice-Files.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\bin\Debug\net9.0\Excersice-Files.pdb
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\obj\Debug\net9.0\Excersice-Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\obj\Debug\net9.0\Excersice-Files.AssemblyInfoInputs.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\obj\Debug\net9.0\Excersice-Files.AssemblyInfo.cs
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\obj\Debug\net9.0\Excersice-Files.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\obj\Debug\net9.0\Excersice-Files.sourcelink.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\obj\Debug\net9.0\Excersice-Files.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\obj\Debug\net9.0\refint\Excersice-Files.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\obj\Debug\net9.0\Excersice-Files.pdb
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\obj\Debug\net9.0\Excersice-Files.genruntimeconfig.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Excersice-Files\obj\Debug\net9.0\ref\Excersice-Files.dll

@@ -1,15 +1,33 @@
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\bin\Debug\net9.0\Factorial.exe
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\bin\Debug\net9.0\Factorial.deps.json
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\bin\Debug\net9.0\Factorial.runtimeconfig.json
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\bin\Debug\net9.0\Factorial.dll
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\bin\Debug\net9.0\Factorial.pdb
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net9.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net9.0\Factorial.AssemblyInfoInputs.cache
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net9.0\Factorial.AssemblyInfo.cs
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net9.0\Factorial.csproj.CoreCompileInputs.cache
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net9.0\Factorial.sourcelink.json
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net9.0\Factorial.dll
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net9.0\refint\Factorial.dll
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net9.0\Factorial.pdb
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net9.0\Factorial.genruntimeconfig.cache
-C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\Factorial\obj\Debug\net9.0\ref\Factorial.dll
+<<<<<<< HEAD
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/bin/Debug/net9.0/Factorial
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/bin/Debug/net9.0/Factorial.deps.json
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/bin/Debug/net9.0/Factorial.runtimeconfig.json
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/bin/Debug/net9.0/Factorial.dll
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/bin/Debug/net9.0/Factorial.pdb
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.AssemblyInfoInputs.cache
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.AssemblyInfo.cs
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.csproj.CoreCompileInputs.cache
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.sourcelink.json
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.dll
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/refint/Factorial.dll
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.pdb
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.genruntimeconfig.cache
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/ref/Factorial.dll
+=======
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/bin/Debug/net9.0/Factorial.exe
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/bin/Debug/net9.0/Factorial.deps.json
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/bin/Debug/net9.0/Factorial.runtimeconfig.json
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/bin/Debug/net9.0/Factorial.dll
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/bin/Debug/net9.0/Factorial.pdb
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.AssemblyInfoInputs.cache
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.AssemblyInfo.cs
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.csproj.CoreCompileInputs.cache
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.sourcelink.json
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.dll
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/refint/Factorial.dll
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.pdb
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/Factorial.genruntimeconfig.cache
+C:/Users/alexi/Programando ando/Aprendiendo-a-programar-Csharp/Factorial/obj/Debug/net9.0/ref/Factorial.dll
+>>>>>>> 5b106aa6a87faf6dbde8270c21dbe9dbb7b9ce68

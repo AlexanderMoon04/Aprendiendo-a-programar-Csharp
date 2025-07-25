@@ -8,26 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alejandro\\.nuget\\packages\\": {}
+    "/home/alejandro/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\NumberSplit&ArrayOfMultiples\\NumberSplit&ArrayOfMultiples.csproj",
+      "projectUniqueName": "/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/NumberSplit&ArrayOfMultiples/NumberSplit&ArrayOfMultiples.csproj",
       "projectName": "NumberSplit&ArrayOfMultiples",
-      "projectPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\NumberSplit&ArrayOfMultiples\\NumberSplit&ArrayOfMultiples.csproj",
-      "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alejandro\\Desktop\\Aprendiendo a programar\\NumberSplit&ArrayOfMultiples\\obj\\",
+      "projectPath": "/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/NumberSplit&ArrayOfMultiples/NumberSplit&ArrayOfMultiples.csproj",
+      "packagesPath": "/home/alejandro/.nuget/packages/",
+      "outputPath": "/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/NumberSplit&ArrayOfMultiples/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/alejandro/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

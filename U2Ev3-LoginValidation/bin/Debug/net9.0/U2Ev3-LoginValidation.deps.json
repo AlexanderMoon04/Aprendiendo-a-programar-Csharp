@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "U2Ev3-LoginValidation/1.0.0": {
+        "runtime": {
+          "U2Ev3-LoginValidation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "U2Ev3-LoginValidation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

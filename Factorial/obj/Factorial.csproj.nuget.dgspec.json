@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexi\\Programando ando\\Aprendiendo-a-programar-Csharp\\Factorial\\Factorial.csproj": {}
+    "/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/Factorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexi\\Programando ando\\Aprendiendo-a-programar-Csharp\\Factorial\\Factorial.csproj": {
+    "/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/Factorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\Programando ando\\Aprendiendo-a-programar-Csharp\\Factorial\\Factorial.csproj",
+        "projectUniqueName": "/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/Factorial.csproj",
         "projectName": "Factorial",
-        "projectPath": "C:\\Users\\alexi\\Programando ando\\Aprendiendo-a-programar-Csharp\\Factorial\\Factorial.csproj",
-        "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\Programando ando\\Aprendiendo-a-programar-Csharp\\Factorial\\obj\\",
+        "projectPath": "/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/Factorial.csproj",
+        "packagesPath": "/home/alejandro/.nuget/packages/",
+        "outputPath": "/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/Factorial/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/alejandro/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

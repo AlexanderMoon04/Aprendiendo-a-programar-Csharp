@@ -1,0 +1,30 @@
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/bin/Debug/net9.0/U2Ev3-LoginValidation
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/bin/Debug/net9.0/U2Ev3-LoginValidation.deps.json
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/bin/Debug/net9.0/U2Ev3-LoginValidation.runtimeconfig.json
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/bin/Debug/net9.0/U2Ev3-LoginValidation.dll
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/bin/Debug/net9.0/U2Ev3-LoginValidation.pdb
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/obj/Debug/net9.0/U2Ev3-LoginValidation.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/obj/Debug/net9.0/U2Ev3-LoginValidation.AssemblyInfoInputs.cache
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/obj/Debug/net9.0/U2Ev3-LoginValidation.AssemblyInfo.cs
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/obj/Debug/net9.0/U2Ev3-LoginValidation.csproj.CoreCompileInputs.cache
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/obj/Debug/net9.0/U2Ev3-LoginValidation.sourcelink.json
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/obj/Debug/net9.0/U2Ev3-LoginValidation.dll
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/obj/Debug/net9.0/refint/U2Ev3-LoginValidation.dll
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/obj/Debug/net9.0/U2Ev3-LoginValidation.pdb
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/obj/Debug/net9.0/U2Ev3-LoginValidation.genruntimeconfig.cache
+/home/alejandro/Bureau/C'est la vie/Aprendiendo-a-programar-Csharp/U2Ev3-LoginValidation/obj/Debug/net9.0/ref/U2Ev3-LoginValidation.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\bin\Debug\net9.0\U2Ev3-LoginValidation.exe
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\bin\Debug\net9.0\U2Ev3-LoginValidation.deps.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\bin\Debug\net9.0\U2Ev3-LoginValidation.runtimeconfig.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\bin\Debug\net9.0\U2Ev3-LoginValidation.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\bin\Debug\net9.0\U2Ev3-LoginValidation.pdb
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\obj\Debug\net9.0\U2Ev3-LoginValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\obj\Debug\net9.0\U2Ev3-LoginValidation.AssemblyInfoInputs.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\obj\Debug\net9.0\U2Ev3-LoginValidation.AssemblyInfo.cs
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\obj\Debug\net9.0\U2Ev3-LoginValidation.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\obj\Debug\net9.0\U2Ev3-LoginValidation.sourcelink.json
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\obj\Debug\net9.0\U2Ev3-LoginValidation.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\obj\Debug\net9.0\refint\U2Ev3-LoginValidation.dll
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\obj\Debug\net9.0\U2Ev3-LoginValidation.pdb
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\obj\Debug\net9.0\U2Ev3-LoginValidation.genruntimeconfig.cache
+C:\Users\alexi\Programando ando\Aprendiendo-a-programar-Csharp\U2Ev3-LoginValidation\obj\Debug\net9.0\ref\U2Ev3-LoginValidation.dll

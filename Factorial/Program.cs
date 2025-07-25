@@ -12,8 +12,7 @@ class Program
         Console.WriteLine($"Factorial de {n} (iterativo): {FactosFactoria(n)}");
         Console.WriteLine($"Suma numeros pares hasta n: {SumaParesRecursivo(n)}");
         Console.WriteLine($"Suma numero de 1 hasta n: {SumaRecursiva(n)}");
-
-    }
+    }  
     static int FactosFactoria(int x)
     {
         if (x < 0)
